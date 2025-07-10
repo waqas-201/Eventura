@@ -44,7 +44,7 @@ export default function ComingSoonPage() {
               className="mb-8"
             >
               <Image
-                src="/Eventura logo 1-01.png"
+                src="/Eventura-logo.png"
                 alt="Eventura Logo"
                 width={200}
                 height={80}
@@ -88,7 +88,7 @@ export default function ComingSoonPage() {
                 transition={{ duration: 0.8, delay: 0.4 }}
                 className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto leading-relaxed"
               >
-                We're crafting exceptional experiences and innovative solutions 
+                We&apos;re crafting exceptional experiences and innovative solutions 
                 to elevate your brand. Stay tuned for the launch!
               </motion.p>
             </div>

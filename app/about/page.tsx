@@ -83,12 +83,12 @@ export default function AboutPage() {
                 </p>
                 <p>
                   Our journey began with the belief that every brand has a unique story to tell, 
-                  and every audience deserves an authentic connection. We've grown from a small 
+                  and every audience deserves an authentic connection. We&apos;ve grown from a small 
                   team of creative enthusiasts to a comprehensive agency serving clients across Pakistan.
                 </p>
                 <p>
                   Today, we continue to push boundaries, embrace innovation, and deliver 
-                  exceptional results that not only meet but exceed our clients' expectations.
+                  exceptional results that not only meet but exceed our clients&apos; expectations.
                 </p>
               </div>
             </motion.div>
@@ -179,7 +179,7 @@ export default function AboutPage() {
           >
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Meet Our Founder</h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              The visionary behind Eventura's success and growth.
+              The visionary behind Eventura&apos;s success and growth.
             </p>
           </motion.div>
 
@@ -200,9 +200,9 @@ export default function AboutPage() {
                     <h3 className="text-2xl font-bold mb-2">Shehroz Javaid</h3>
                     <p className="text-emerald-600 font-semibold mb-4">Founder & CEO</p>
                     <p className="text-muted-foreground italic text-lg leading-relaxed">
-                      "Fueled by a genuine love for advertising, I founded Eventura with a clear vision: 
+                      &quot;Fueled by a genuine love for advertising, I founded Eventura with a clear vision: 
                       to craft meaningful bridges between brands and the people they want to reach. 
-                      Every project we undertake is an opportunity to create something extraordinary."
+                      Every project we undertake is an opportunity to create something extraordinary.&quot;
                     </p>
                   </div>
                 </div>

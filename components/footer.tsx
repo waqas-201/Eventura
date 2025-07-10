@@ -222,7 +222,7 @@ export default function Footer() {
           className="border-t border-border mt-12 pt-8 flex flex-col md:flex-row justify-between items-center"
         >
           <p className="text-sm text-muted-foreground">
-            © 2024 Eventura. All rights reserved.
+            © 2025 Eventura. All rights reserved.
           </p>
           <motion.p 
             className="text-sm text-muted-foreground mt-2 md:mt-0"

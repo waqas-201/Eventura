@@ -36,37 +36,9 @@ export default function ComingSoonPage() {
             transition={{ duration: 0.8 }}
             className="space-y-8"
           >
-            {/* Eventura Logo */}
-            <motion.div
-              initial={{ opacity: 0, scale: 0.8 }}
-              animate={{ opacity: 1, scale: 1 }}
-              transition={{ duration: 0.8, delay: 0.1 }}
-              className="mb-8"
-            >
-              <Image
-                src="/Eventura-logo.png"
-                alt="Eventura Logo"
-                width={200}
-                height={80}
-                className="w-48 h-auto mx-auto"
-              />
-            </motion.div>
 
-            {/* Animated Icon */}
-            <motion.div
-              animate={{ 
-                scale: [1, 1.1, 1],
-                rotate: [0, 5, -5, 0]
-              }}
-              transition={{ 
-                duration: 4,
-                repeat: Infinity,
-                ease: "easeInOut"
-              }}
-              className="w-24 h-24 bg-gradient-to-br from-emerald-500 to-teal-600 rounded-full flex items-center justify-center mx-auto shadow-2xl"
-            >
-              <Clock className="h-12 w-12 text-white" />
-            </motion.div>
+
+
 
             {/* Main Heading */}
             <div className="space-y-4">

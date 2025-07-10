@@ -54,11 +54,10 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           <Link href="/" className="flex items-center">
             <Image
-              src="/Eventura-logo.png"
+              src="https://kndugmcaf7.ufs.sh/f/jkhZLgpgpiX3Et0iQrAZa451A9Cw2FDHPdrixfvtjgWpNeVm"
               alt="Eventura"
-              width={120}
-              height={40}
-              className="h-8 w-auto"
+              width={150}
+              height={50}
             />
           </Link>
 

@@ -5,7 +5,7 @@ export function middleware(request: NextRequest) {
   const url = request.nextUrl;
 
   // Don't redirect the coming-soon page itself to avoid an infinite loop
-  if (url.pathname === "/coming-soon") {
+  if (url.pathname === "/coming-soon" || url.pathname === "/landingPage") {
     return NextResponse.next();
   }
 

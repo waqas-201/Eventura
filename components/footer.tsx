@@ -64,13 +64,14 @@ export default function Footer() {
             <motion.div
               whileHover={{ scale: 1.05 }}
               transition={{ type: "spring", stiffness: 300 }}
+
             >
               <Image
-                src="/Eventura logo 1-01.png"
+                src="https://kndugmcaf7.ufs.sh/f/jkhZLgpgpiX3Et0iQrAZa451A9Cw2FDHPdrixfvtjgWpNeVm"
                 alt="Eventura"
                 width={150}
                 height={50}
-                className="h-10 w-auto"
+
               />
             </motion.div>
             <p className="text-muted-foreground text-sm leading-relaxed">

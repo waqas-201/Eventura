@@ -148,7 +148,7 @@ export default function HeroSection() {
                 }}
               >
                 <Image
-                  src="/Eventura logo 1-01.png"
+                  src="https://kndugmcaf7.ufs.sh/f/jkhZLgpgpiX3Et0iQrAZa451A9Cw2FDHPdrixfvtjgWpNeVm"
                   alt="Eventura"
                   width={500}
                   height={300}

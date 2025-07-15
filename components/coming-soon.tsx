@@ -40,7 +40,7 @@ export default function ComingSoon({
                 className="mb-8"
               >
                 <Image
-                  src="/Eventura logo 1-01.png"
+                  src="https://kndugmcaf7.ufs.sh/f/jkhZLgpgpiX3Et0iQrAZa451A9Cw2FDHPdrixfvtjgWpNeVm"
                   alt="Eventura Logo"
                   width={180}
                   height={60}
